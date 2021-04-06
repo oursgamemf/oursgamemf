@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oursgamemf
+- 👋 Hi, I’m Emanuele
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning JAVA to use in JMonkeyEngine
 - 💞️ I’m looking to collaborate on the Engine it self
